@@ -37,7 +37,38 @@ Require instagram cookies, get your cookies with cookiedough (chrome extensions)
 - [install cookiedough](https://chrome.google.com/webstore/detail/cookiedough)
 
 ### logincookies
-[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141123.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+[![@adityaexec_](https://github.com/AdityaTwinz/FBhack/blob/main/images/IMG_20240114_130059.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 ### features
-[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141123.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+[![@adityaexec_](https://github.com/AdityaTwinz/FBhack/blob/main/images/IMG_20240114_130109.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+
+<b>NOTE</b>: press ```CTRL + C``` to stop the dump process 
+
+### contributes
+- code by [@AdityaTwinz](https://github.com/AdityaTwinz)
+- obfuscator by [@XyaaCode](https://github.com/Xyaa-Code)
+
+### license
+```text
+MIT License
+
+Copyright (c) 2024 Aditya Putra Mahesa XD
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
