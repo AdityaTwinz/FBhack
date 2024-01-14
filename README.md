@@ -17,3 +17,23 @@
 FBhack is a CLI-based tool with the main function of guessing password vulnerabilities on Facebook accounts, with the bruteforce attack technique via Facebook Private Api. Fbhack can carry out bruteforce attacks like a user logging in to an Android application.
 
 This tool is only available for Termux Android users and Python 3.11
+
+#### installation
+Quick installation for Termux Android
+````bash
+pkg update && pkg upgrade
+pkg install python
+pkg install git
+pip install requests bs4 futures
+rm -rf FBhack
+git clone https://github.com/AdityaTwinz/FBhack
+cd FBhack
+git pull
+python run.py
+````
+
+#### authentication 
+Require instagram cookies, get your cookies with cookiedough (chrome extensions)
+- [install cookiedough](https://chrome.google.com/webstore/detail/cookiedough)
+
+### features
