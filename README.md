@@ -36,4 +36,8 @@ python run.py
 Require instagram cookies, get your cookies with cookiedough (chrome extensions)
 - [install cookiedough](https://chrome.google.com/webstore/detail/cookiedough)
 
+### logincookies
+[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141123.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+
 ### features
+[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141123.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
