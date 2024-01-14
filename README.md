@@ -33,7 +33,7 @@ python run.py
 ````
 
 #### authentication 
-Require instagram cookies, get your cookies with cookiedough (chrome extensions)
+Require facebook cookies, get your cookies with cookiedough (chrome extensions)
 - [install cookiedough](https://chrome.google.com/webstore/detail/cookiedough)
 
 ### logincookies
