@@ -52,7 +52,7 @@ Require facebook cookies, get your cookies with cookiedough (chrome extensions)
 ```text
 MIT License
 
-Copyright (c) 2024 Aditya Putra Mahesa XD
+Copyright (c) 2024 [ XCTeamCode - ( Aditya Putra Mahesa XD  ) ] -
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
