@@ -7,7 +7,7 @@
 |_|     |______/|_| |_\_____|\____)_| \_)    V1 2.0.1
 
 © 2024 by @AdityaExec__ founder of XCteamCode
-  https://github.com/termuxhackers-id/AdityaTwinz
+  https://github.com/AdityaTwinz
 
 >
 ```
